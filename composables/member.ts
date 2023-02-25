@@ -99,7 +99,7 @@ export const useMember = () => {
       },
       {
         image:
-          "https://cdn.discordapp.com/avatars/606422912525926400/d4780a91f587136fa70e0125992f05c8.png?size=1024",
+          "https://cdn.discordapp.com/attachments/893518692716019765/1079034451419467837/ezgif-4-d0c4bc19ae.gif",
         nickName: "Redz",
         description: "Member",
         skill: "Fullstack Develop",
